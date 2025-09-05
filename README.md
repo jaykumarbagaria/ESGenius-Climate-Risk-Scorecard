@@ -7,4 +7,4 @@ This scorecard is designed to:
 ⚫ Provide clear, data-driven insights
 ⚫ Support decision-making for sustainable strategies
 
-▪️ You can explore the dashboard here: https://lnkd.in/d7KY5MQY
+▪️ You can explore the dashboard here: [https://lnkd.in/d7KY5MQY](https://lookerstudio.google.com/reporting/c41feb14-a253-483e-a0a6-03b78cad6e35)
